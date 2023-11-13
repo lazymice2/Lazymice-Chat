@@ -8,4 +8,4 @@
 
 #### 演示地址
 **<br>Web网页端应用模式(Lazymice Chat)**：http://chat.lazymicezhu.com
-**<br>微信机器人（Lme）**：请添加机器人(微信号：lme-bot)后，回复“进群”
+**<br>微信机器人(Lme)**：请添加机器人(微信号：lme-bot)后，回复“进群”
